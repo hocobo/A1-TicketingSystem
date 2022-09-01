@@ -23,9 +23,10 @@ namespace Program
                     if (File.Exists(file))
                     {
                         StreamReader sr = new StreamReader(file);
+                        string header = sr.ReadLine();
                         while (!sr.EndOfStream)
                         {
-                            string header = sr.ReadLine();
+                           
                             string line = sr.ReadLine();
                             Console.WriteLine(line);
                         }
@@ -38,8 +39,9 @@ namespace Program
                 else if (choice == "2")
                 {
                     StreamWriter sw = new StreamWriter(file);
-                    string watching = "";
+                    
 
+                    sw.WriteLine("TicketID,Summary,Status,Priority,Submitter,Assigned,Watching");
                     for(int i = 0; i<7;i++)
                     {
                         Console.WriteLine("Enter a new ticket (Y/N)?");
@@ -64,8 +66,11 @@ namespace Program
                         Console.WriteLine("Enter who was assigned.");
                         string assigned = Console.ReadLine();
 
-                        do 
+                        string watching = "";
+                        
+                        do
                         {
+                            
                             Console.WriteLine("Enter who is watching.");
                             watching = watching + Console.ReadLine();
 
@@ -75,7 +80,7 @@ namespace Program
                         } 
                         while (choice == "Y");
 
-                        sw.WriteLine("TicketID,Summary,Status,Priority,Submitter,Assigned,Watching");
+                       
                         sw.WriteLine($"{ticketID},{summary},{status},{priority},{submitter},{assigned},{watching}");
                     }
                     sw.Close();
