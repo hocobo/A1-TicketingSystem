@@ -1,0 +1,16 @@
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.exe
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.deps.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.dev.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfo.cs
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\A1-TicketingSystem\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.genruntimeconfig.cache
